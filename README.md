@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/recpoy" target="blank"><img src="https://img.shields.io/twitter/follow/recpoy?logo=twitter&style=for-the-badge" alt="recpoy" /></a> </p>
 
-- 🌱 Şu anda kendimi geliştiriyorum **React JS, Asp.net Core, MS-SQL**
+- 🌱 Şu anda kendimi geliştirdiğim başlıca alanlarım; **React JS, Asp.net Core, MS-SQL**
 
-- 💬 Bana sor **React JS**
+- 💬 React JS hakkında bana soru sorabilirsin.
 
-- 📫 Bana nasıl ulaşılır **recpoy.orta@gmail.com**
+- 📫 Bana buradan ulaşabilirsiniz, **recpoy.orta@gmail.com**
 
-- 📄 Deneyimlerimden haberdar olun [https://www.linkedin.com/in/recep-orta/](https://www.linkedin.com/in/recep-orta/)
+- 📄 Deneyimlerimden haberdar olmak için; [https://www.linkedin.com/in/recep-orta/](https://www.linkedin.com/in/recep-orta/)
 
 <h3 align="left">Benimle iletişime geç:</h3>
 <p align="left">
