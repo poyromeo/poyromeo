@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/recpoy" target="blank"><img src="https://img.shields.io/twitter/follow/recpoy?logo=twitter&style=for-the-badge" alt="recpoy" /></a> </p>
 
-- 🌱 Şu anda kendimi geliştirdiğim başlıca alanlarım; **React JS, Asp.net Core, MS-SQL**
+- 🌱 Uzmanlık alanlarım; **React JS, Asp.net Core, MS-SQL**
 
 - 💬 **React JS** hakkında bana soru sorabilirsin.
 
