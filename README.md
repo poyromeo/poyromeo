@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyromeo&label=Profile%20views&color=0e75b6&style=flat" alt="poyromeo" /> </p>
 
-<p align="left"> <a href="(https://twitter.com/poyromeo_" target="blank"><img src="[https://img.shields.io/twitter/follow/recpoy?logo=twitter&style=for-the-badge]" alt="recpoy" /></a> </p>
+<p align="left"> <a href="(https://twitter.com/poyromeo_" target="blank"><img src="https://img.shields.io/twitter/follow/recpoy?logo=twitter&style=for-the-badge" alt="recpoy" /></a> </p>
 
 - 🌱 Uzmanlık alanlarım; **React JS, Asp.net Core, MS-SQL**
 
