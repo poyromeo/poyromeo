@@ -9,7 +9,7 @@
 
 - 🌱 Şu anda kendimi geliştirdiğim başlıca alanlarım; **React JS, Asp.net Core, MS-SQL**
 
-- 💬 React JS hakkında bana soru sorabilirsin.
+- 💬 **React JS** hakkında bana soru sorabilirsin.
 
 - 📫 Bana buradan ulaşabilirsiniz, **recpoy.orta@gmail.com**
 
